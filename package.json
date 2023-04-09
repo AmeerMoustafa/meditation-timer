@@ -1,0 +1,14 @@
+{
+  "name": "meditation-timer",
+  "version": "1.0.0",
+  "description": "A simple meditation timer for practice",
+  "main": "meditate.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "A M",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^10.0.0"
+  }
+}
