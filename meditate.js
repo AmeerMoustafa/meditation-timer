@@ -29,7 +29,7 @@ const updateTimer = () => {
     }
 } 
 else {
-    console.log(`Thought I wouldn't implement error handling huh? Time is a number I'm afraid`)
+    console.error(`Thought I wouldn't implement error handling huh? Time is a number I'm afraid`)
     process.exit(1)
 }
     
